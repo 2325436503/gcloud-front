@@ -1,4 +1,4 @@
-export const Upload_Url = 'https://101.43.244.78/file/upload';
+export const Upload_Url = 'https://101.43.244.78:20088/file/upload';
 
 export const One_Byte = 1024;
 export const Max_Size_Per_Upload = 20 * One_Byte * One_Byte;
